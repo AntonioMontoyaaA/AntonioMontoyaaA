@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on microservices using Spring Boot and Spring Cloud
+- 🌱 I’m currently learning Cloud Computing to develop microservices in a DevOps way
+
 <!--
 **AntonioMontoyaaA/AntonioMontoyaaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
